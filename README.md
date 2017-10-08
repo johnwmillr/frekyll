@@ -1,0 +1,2 @@
+### frekyll ###
+Frekyll is (or will be) a simple [Jekyll plugin](https://jekyllrb.com/docs/plugins/) for embedding images from a [Flickr](http://www.flickr.com/) photo album in a Jekyll blog. I couldn't get the other plugins I found for this purpose to work on [my blog](http://www.johnwmillr.com), so I figured I'd write my own.
